@@ -18,7 +18,7 @@ Good Shipping capture application can run on smart devices especially on mobile 
 
 Good Shipping management application can run on variety platforms.
 
-Good Shipping improves product quality, reduce trick, negative product impact through this measurement.
+Good Shipping improves product quality, reduce trick, negative, dangerous product impact through this measurement.
 
 ![image.png](image%201.png)
 
