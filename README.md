@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/good-shipping.git](https://github.com/vietphan1995/good-shipping.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:good-shipping_project&body=left_your_idea)
+
 Good Shipping is a software platform as service that manages good making process, especially in food, drink, medical field … by unique video generated from smart devices.
 
 Good Shipping measures product made from trusting source to completely product in one source or cutting step process.
@@ -21,6 +23,8 @@ Good Shipping management application can run on variety platforms.
 Good Shipping improves product quality, reduce trick, negative, dangerous product impact through this measurement.
 
 ![image.png](image%201.png)
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
