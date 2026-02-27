@@ -24,6 +24,10 @@ Good Shipping improves product quality, reduce trick, negative, dangerous produc
 
 ![image.png](image%201.png)
 
+### Applyments:
+
+[https://youtu.be/OPhciBfsMV0?si=UN9V0B3Sh0KQrFtz](https://youtu.be/OPhciBfsMV0?si=UN9V0B3Sh0KQrFtz)
+
 .
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
